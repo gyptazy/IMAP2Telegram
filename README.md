@@ -53,7 +53,7 @@ systemctl start imap2telegram
 
 ## Authors
 
-* **Florian Paul Hoberg** - *Initial work* - [@florianpaulhoberg](https://github.com/florianpaulhoberg)
+* **Florian Paul Hoberg** - *Initial work* - [@gyptazy](https://github.com/gyptazy)
 
 ## License
 
